@@ -1,4 +1,4 @@
-/**
+/ *
  * Copyright 2013-2016 Guoqiang Chen, Shanghai, China. All rights reserved.
  *
  *   Author: Guoqiang Chen
@@ -81,3 +81,4 @@ final class JFinalActiveRecordGetterResolver implements GetterResolver {
         }
     }
 }
+ 
